@@ -1,6 +1,6 @@
 # npmdoc-systemd
 
-#### api documentation for  [systemd (v0.2.6)](https://github.com/rubenv/node-systemd)  [![npm package](https://img.shields.io/npm/v/npmdoc-systemd.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-systemd) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-systemd.svg)](https://travis-ci.org/npmdoc/node-npmdoc-systemd)
+#### basic api documentation for  [systemd (v0.2.6)](https://github.com/rubenv/node-systemd)  [![npm package](https://img.shields.io/npm/v/npmdoc-systemd.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-systemd) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-systemd.svg)](https://travis-ci.org/npmdoc/node-npmdoc-systemd)
 
 #### systemd socket activation support for Node.js
 
@@ -84,7 +84,8 @@
             },
             "pkgid": "systemd@0.2.6"
         }
-    ]
+    ],
+    "bin": {}
 }
 ```
 
